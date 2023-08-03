@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aracproje", "aracproje\aracproje.csproj", "{07B5B821-AAA1-4D96-9F31-A0F59FCCFE42}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Demir Otoservis", "Demir Otoservis\Demir Otoservis.vdproj", "{7EA7B7BE-2CAE-4DFF-BF92-21E5B0BE3ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B5B821-AAA1-4D96-9F31-A0F59FCCFE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B5B821-AAA1-4D96-9F31-A0F59FCCFE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B5B821-AAA1-4D96-9F31-A0F59FCCFE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B5B821-AAA1-4D96-9F31-A0F59FCCFE42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA7B7BE-2CAE-4DFF-BF92-21E5B0BE3ED4}.Debug|Any CPU.ActiveCfg = Debug
+		{7EA7B7BE-2CAE-4DFF-BF92-21E5B0BE3ED4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5FD097E-3599-4B79-BDDB-CD4B50747136}
+	EndGlobalSection
+EndGlobal
